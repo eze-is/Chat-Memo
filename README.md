@@ -1,72 +1,68 @@
-# Chat Memo
+# Chat Memo  
 
-一个强大的浏览器扩展，自动保存和管理您在各大 AI 聊天平台的对话记录。
+A powerful browser extension that automatically saves and manages your conversation history across major AI chat platforms.  
 
-![Frame 2](https://github.com/user-attachments/assets/dc9ddf9b-2f97-4376-9703-f479dd44f174)
+![Frame 2](https://github.com/user-attachments/assets/dc9ddf9b-2f97-4376-9703-f479dd44f174)  
+![Frame 1](https://github.com/user-attachments/assets/6433943d-48da-4690-98ca-aab87add5afd)  
 
-![Frame 1](https://github.com/user-attachments/assets/6433943d-48da-4690-98ca-aab87add5afd)
+## Current Version  
 
+**v1.0.5**  
 
-## 当前版本
+## 🌟 Key Features  
 
-v1.0.5
+### 🤖 Multi-Platform Support  
+- **ChatGPT** (chatgpt.com, chat.openai.com)  
+- **DeepSeek** (chat.deepseek.com)  
+- **Google Gemini** (gemini.google.com)  
+- **Tencent Yuanbao** (yuanbao.tencent.com)  
 
-## 🌟 功能特性
+### 🔍 Chat History Search  
+- Instantly search conversations across AI platforms  
+- Auto-navigate to message locations  
 
-### 🤖 多平台支持
-- **ChatGPT** (chatgpt.com, chat.openai.com)
-- **DeepSeek** (chat.deepseek.com)
-- **Google Gemini** (gemini.google.com)
-- **腾讯元宝** (yuanbao.tencent.com)
+### 💾 Smart Saving  
+- **Auto-Save**: Monitors conversations in real-time and saves new messages  
+- **Manual Save**: Supports manual saving when needed  
+- **Incremental Updates**: Only stores new content, avoiding duplicates  
 
-### 聊天记录搜索
-- 一键搜索各个 AI 平台中的聊天记录
-- 自动定位消息位置
+### 📊 Data Management  
+- **Local Storage**: Securely saves conversations in IndexedDB  
+- **Export Data**: Batch export chats as text files  
+- **Usage Stats**: Shows total conversations and daily new entries  
+- **Quick Search**: Easily find past discussions  
 
-### 💾 智能保存
-- **自动保存**: 实时监控对话变化，自动保存新的对话内容
-- **手动保存**: 支持手动触发保存功能
-- **增量更新**: 只保存新增的对话内容，避免重复存储
+### 🎨 User Interface  
+- **Side Panel**: Integrated sidebar for managing chats  
+- **Floating Tag**: On-page indicator for save status  
+- **Multi-Language**: Supports both Chinese & English  
+- **Responsive Design**: Adapts to different screen sizes  
 
-### 📊 数据管理
-- **本地存储**: 使用 IndexedDB 在本地安全存储对话数据
-- **数据导出**: 支持批量导出对话记录为文本文件
-- **统计信息**: 显示总对话数和今日新增对话数
-- **搜索查找**: 快速定位和查看历史对话
+## 🚀 Installation & Usage  
 
-### 🎨 用户界面
-- **侧边面板**: 集成的侧边栏管理界面
-- **悬浮标签**: 页面内悬浮状态指示器
-- **多语言支持**: 支持中文和英文界面
-- **响应式设计**: 适配不同屏幕尺寸
+### Chrome Installation  
+1. Visit the Chrome Web Store: [Install Here](https://chromewebstore.google.com/detail/memnnheiikbfdcobfkghhfihnegkfici?utm_source=item-share-cb)  
+2. Click "Add to Chrome"  
 
-## 🚀 安装使用
+### How to Use  
+1. **Visit supported AI chat websites**  
+2. **Check floating tag**: Save status appears at the bottom-right  
+3. **Open side panel**: Click the extension icon or use a shortcut  
+4. **Manage chats**: View, search, or export conversations  
 
-### Chrome 浏览器安装
-1. 打开 Chrome 商店详情页：[点此安装](https://chromewebstore.google.com/detail/memnnheiikbfdcobfkghhfihnegkfici?utm_source=item-share-cb)
-2. 确认安装
+## 📝 Changelog  
 
-### 使用方法
-1. **访问支持的 AI 聊天网站**
-2. **查看悬浮标签**: 页面右下角会显示保存状态
-3. **打开侧边面板**: 点击扩展图标或使用快捷键
-4. **管理对话**: 在侧边面板中查看、搜索、导出对话记录
+### v1.0.5 (Current Version)  
+- **Core Feature**:  
+  - Added powerful keyword search to quickly find content across all chats.  
+- **Key Fixes**:  
+  - Resolved Gemini platform issues to prevent message loss after page refresh.  
+- **Rebranding**:  
+  - Officially renamed to "Chat Memo" to better reflect its purpose.  
+- **Other**:  
+  - Added official website link.  
+  - Improved UI details.  
 
----
+## 👨‍💻 Author  
 
-## 📝 更新日志
-
-### v1.0.5 (当前版本)
-- **核心功能**: 
-  - 新增了强大的关键词搜索功能，可以快速在所有对话记录中查找内容。
-- **重要改进**: 
-  - 修复了 Gemini 平台的问题，确保刷新页面后不会丢失消息记录。
-- **品牌更名**: 
-  - 产品名称正式更新为 "Chat Memo"，以更好地反映其核心价值。
-- **其他**
-  - 增加了官方网站入口。
-  - 优化了界面 UI 细节。
-
-## 👨‍💻 作者
-
-**一泽Eze** - 项目创建者和维护者
+**Eze** – Creator & Maintainer  
