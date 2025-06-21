@@ -1,65 +1,64 @@
-# 隐私权政策 - Chat Memo 扩展程序
+# Privacy Policy - Chat Memo Extension  
 
-**最后更新日期：2025年6月6日**
+**Last Updated: June 21, 2025**  
 
-感谢您使用 "Chat Memo" 浏览器扩展程序（以下简称“本扩展”）。我们非常重视您的隐私。本隐私权政策旨在说明当您使用本扩展时，我们如何处理您的信息。
+Thank you for using the "Chat Memo" browser extension (hereinafter referred to as "the Extension"). We take your privacy seriously. This Privacy Policy explains how we handle your information when you use the Extension.  
 
-**1. 我们收集的信息**
+## 1. Information We Collect  
 
-本扩展的核心功能是帮助您保存和管理您在 AI 聊天网站（如 chat.deepseek.com）上的对话记录。
+The core functionality of the Extension is to help you save and manage your conversation history on AI chat websites (e.g., chat.deepseek.com).  
 
-*   **AI 聊天记录：** 当您使用本扩展保存聊天记录时，这些记录（包括文本内容、时间戳等）会被收集。
-*   **扩展程序设置：** 我们可能会存储您对本扩展的偏好设置，例如界面选项或功能配置。
+- **AI Chat History:** When you save conversations using the Extension, we collect the chat records (including text content, timestamps, etc.).  
+- **Extension Settings:** We may store your preferences, such as interface options or feature configurations.  
 
-**重要声明：所有上述信息均存储在您的本地浏览器存储空间中。我们不会将您的任何聊天记录或个人身份信息传输到我们的服务器或任何第三方服务器。**
+**Important Notice:** All collected data is stored locally in your browser's storage. We do not transmit your chat history or any personally identifiable information to our servers or any third-party servers.  
 
-**2. 我们如何使用您的信息**
+## 2. How We Use Your Information  
 
-我们使用收集到的信息完全是为了实现本扩展的功能：
+The collected information is used solely to provide the Extension’s functionality:  
 
-*   **保存和展示聊天记录：** 使您能够保存、查看、搜索和管理您的 AI 聊天历史。
-*   **导出聊天记录：** 允许您通过浏览器的下载功能将保存的聊天记录导出为文件。
-*   **与特定网站交互：** 通过 `tabs` 权限和针对 `[https://chat.deepseek.com/*`](https://chat.deepseek.com/*`) 的主机权限，本扩展能够识别 AI 聊天页面并与之交互，以实现聊天记录的捕获和相关功能。
+- **Saving & Displaying Chat History:** Enables you to save, view, search, and manage your AI conversation history.  
+- **Exporting Chats:** Allows you to download saved chats as files via your browser’s download function.  
+- **Interacting with Specific Websites:** Through the `tabs` permission and host permissions (e.g., `https://chat.deepseek.com/*`), the Extension identifies AI chat pages and interacts with them to capture and manage conversations.  
 
-**3. 数据存储和安全**
+## 3. Data Storage & Security  
 
-*   **本地存储：** 您所有的 AI 聊天记录和扩展设置都通过浏览器的 `storage` API 直接存储在您的计算机本地。这意味着数据保留在您的设备上，除非您主动清除浏览器数据或卸载本扩展。
-*   **数据安全：** 由于数据存储在本地，其安全性依赖于您计算机和浏览器的安全措施。我们不控制或访问这些本地存储的数据。
+- **Local Storage:** All AI chat records and Extension settings are stored directly on your computer via your browser’s `storage` API. This means data remains on your device unless you manually clear browser storage or uninstall the Extension.  
+- **Data Security:** Since data is stored locally, its security depends on your computer and browser’s safeguards. We do not control or access this locally stored data.  
 
-**4. 我们不收集的信息**
+## 4. Information We Do NOT Collect  
 
-我们明确声明，本扩展**不会**收集、存储或传输以下任何信息：
+We explicitly state that the Extension does **not** collect, store, or transmit:  
 
-*   您的个人身份信息（PII），如姓名、电子邮件地址、电话号码等（除非这些信息是您聊天记录内容的一部分，而聊天记录本身也仅存储在本地）。
-*   您的浏览历史（除了与本扩展功能直接相关的 AI 聊天页面信息，且仅用于在本地实现功能）。
-*   您的密码或任何敏感账户信息。
+- Personally identifiable information (PII) such as your name, email, phone number, etc. (unless such details are part of your chat history, which remains local).  
+- Your browsing history (except for AI chat pages directly related to the Extension’s functionality, used locally only).  
+- Passwords or sensitive account credentials.  
 
-**5. 第三方服务**
+## 5. Third-Party Services  
 
-*   **`jszip.min.js`：** 本扩展可能包含 `jszip.min.js` 库，用于在本地处理（例如压缩）聊天记录数据，以优化存储或导出。此库是随扩展包一同分发的（即本地文件），则它在您的本地浏览器环境中运行，不涉及外部数据传输。本扩展不通过此库向任何外部方发送您的数据。
+- **`jszip.min.js`:** The Extension may include the `jszip.min.js` library for local data processing (e.g., compressing chat records) to optimize storage or exports. This library runs locally in your browser and does not transmit data externally.  
 
-**6. 权限说明**
+## 6. Permission Explanations  
 
-本扩展请求以下权限，仅用于实现其核心功能：
+The Extension requests the following permissions, used only for core features:  
 
-*   `storage`: 在您的浏览器本地存储聊天记录和扩展设置。
-*   `tabs`: 识别和与 AI 聊天标签页交互，以捕获内容或提供上下文功能。
-*   `downloads`: 允许您将保存的聊天记录下载到您的计算机。
-*   `host_permissions` (针对 `[https://chat.deepseek.com/*`):](https://chat.deepseek.com/*`):) 允许本扩展在指定的 AI 聊天网站上运行脚本，以读取聊天内容并提供保存功能。
+- `storage`: Saves chat history and settings locally in your browser.  
+- `tabs`: Identifies and interacts with AI chat tabs to capture content.  
+- `downloads`: Enables exporting chats to your computer.  
+- `host_permissions` (e.g., `https://chat.deepseek.com/*`): Allows the Extension to run scripts on specified AI chat sites for reading and saving conversations.  
 
-**7. 用户权利和选择**
+## 7. Your Rights & Choices  
 
-由于所有数据都存储在本地，您可以完全控制您的数据：
+Since all data is stored locally, you have full control:  
 
-*   **访问和修改：** 您可以通过本扩展的界面访问和管理您保存的聊天记录。
-*   **删除：** 要删除所有数据，您可以清除您浏览器中本扩展的存储数据，或直接卸载本扩展。
+- **Access & Modify:** Manage saved chats via the Extension’s interface.  
+- **Delete:** Remove all data by clearing the Extension’s storage in your browser or uninstalling it.  
 
+## 8. Changes to This Policy  
 
-**8. 本隐私权政策的变更**
+We may update this Privacy Policy occasionally. Significant changes will be announced on the Extension’s Chrome Web Store page. Please review this policy periodically.  
 
-我们可能会不时更新本隐私权政策。如果我们做出任何重大更改，我们将通过在 Chrome Web Store 上的扩展程序页面发布新的隐私政策来通知您。我们鼓励您定期查看本隐私权政策以了解任何更改。
+## 9. Contact Us  
 
-**9. 联系我们**
-
-如果您对本隐私权政策有任何疑问或疑虑，请通过以下方式与我们联系：
-ezewyz@gmail.com
+For questions or concerns about this Privacy Policy, contact us at:  
+**ezewyz@gmail.com**  
