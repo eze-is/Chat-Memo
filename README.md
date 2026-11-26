@@ -9,10 +9,10 @@ Chat Memo 是世界上最易用的跨 AI 上下文记忆中枢，也是保存格
 
 **桌面端 · Desktop**
 
-<a href="assets/desktop-backup-activity.png"><img src="assets/desktop-backup-activity.png" width="49%" alt="桌面首页的本地备份与跨 AI 互通概览" align="top"></a>
+<a href="assets/desktop-backup-activity.png"><img src="assets/desktop-backup-activity-preview.png" width="49%" alt="桌面首页的本地备份与跨 AI 互通概览" align="top"></a>
 <a href="assets/desktop-conversation-record.png"><img src="assets/desktop-conversation-record.png" width="49%" alt="桌面端记录页中的 Antigravity 对话和「在别的 AI 里接着聊」入口" align="top"></a>
 
-<a href="assets/desktop-backup-sources.png"><img src="assets/desktop-backup-sources.png" width="49%" alt="桌面端的备份来源和插件配对入口" align="top"></a>
+<a href="assets/desktop-backup-sources.png"><img src="assets/desktop-backup-sources-preview.png" width="49%" alt="桌面端的备份来源和插件配对入口" align="top"></a>
 <a href="assets/cross-ai-recall.png"><img src="assets/cross-ai-recall.png" width="49%" alt="在 Claude Code 中接续 Codex 与 Gemini 讨论的示例" align="top"></a>
 
 **浏览器插件 · Browser extension**
