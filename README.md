@@ -2,7 +2,7 @@
 
 把网页和电脑上的 AI 对话保存在自己的设备上。换一个 AI 聊天时，你可以授权它找回之前讨论过的内容。这个仓库提供 Chat Memo 产品介绍、下载入口和浏览器插件隐私政策。
 
-[官网](https://chatmemo.ai/zh-CN/) · [下载桌面端和浏览器插件](https://chatmemo.ai/zh-CN/downloads) · [更新日志](https://chatmemo.ai/zh-CN/updates) · [English](#english)
+[官网](https://chatmemo.ai/zh-CN/) · [下载桌面端和浏览器插件](https://chatmemo.ai/zh-CN/downloads) · [更新日志](https://chatmemo.ai/zh-CN/updates) · [界面预览](#界面预览) · [English](#english)
 
 ## 我可以保存哪些对话？
 
@@ -15,6 +15,16 @@
 
 [Pro 功能](https://chatmemo.ai/zh-CN/pricing) · [浏览器插件隐私政策](PRIVACY_POLICY.md) · [桌面端与 AI 互通隐私政策](https://chatmemo.ai/zh-CN/desktop/privacy) · [反馈](https://chatmemo.ai/feedback)
 
+## 界面预览
+
+**桌面端 · Desktop**
+
+![桌面端演示：在记录列表中打开 Claude Code 的书店设计对话，右上方可选择“换个 AI 继续聊”。](assets/desktop-preview.png)
+
+**浏览器插件 · Browser extension**
+
+![插件演示：左侧是 ChatGPT 的网页对话，右侧是 Chat Memo 侧栏，可搜索和查看已保存的对话。](assets/extension-preview.webp)
+
 ## English
 
 Chat Memo saves AI conversations on your device. When you switch to another assistant, you can give it access to earlier conversations so it can pick up where you left off.
@@ -23,6 +33,6 @@ Chat Memo saves AI conversations on your device. When you switch to another assi
 - **Chat Memo Desktop** backs up conversations from tools such as Codex, Claude Code, and WorkBuddy. Pair the extension with Desktop on the same computer to include your web chats. You can also import chat archives exported by supported platforms.
 - **Other AI agents can retrieve memories with your permission.** With Chat Memo Pro, follow the steps in Desktop to connect and authorize an MCP-compatible AI client. You can then ask it to find relevant excerpts from past conversations. You choose which clients get access separately from pairing the browser extension.
 
-[Website](https://chatmemo.ai/en/) · [Download Desktop or the extension](https://chatmemo.ai/en/downloads) · [Release notes](https://chatmemo.ai/en/updates) · [Pro features](https://chatmemo.ai/en/pricing) · [Extension privacy policy](PRIVACY_POLICY.md) · [Desktop and AI integrations privacy policy](https://chatmemo.ai/en/desktop/privacy)
+[Product previews](#界面预览) · [Website](https://chatmemo.ai/en/) · [Download Desktop or the extension](https://chatmemo.ai/en/downloads) · [Release notes](https://chatmemo.ai/en/updates) · [Pro features](https://chatmemo.ai/en/pricing) · [Extension privacy policy](PRIVACY_POLICY.md) · [Desktop and AI integrations privacy policy](https://chatmemo.ai/en/desktop/privacy)
 
 Maintained by [Eze](https://github.com/eze-is).
