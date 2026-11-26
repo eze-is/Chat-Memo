@@ -21,11 +21,12 @@
 
 <a href="assets/desktop-backup-activity.png"><img src="assets/desktop-backup-activity.png" width="240" alt="桌面首页的本地备份与跨 AI 互通概览" align="top"></a>
 <a href="assets/cross-ai-recall.png"><img src="assets/cross-ai-recall.png" width="240" alt="在 Claude Code 中接续 Codex 与 Gemini 讨论的示例" align="top"></a>
-<a href="assets/desktop-backup-sources.png"><img src="assets/desktop-backup-sources.png" width="240" alt="桌面端的备份来源和插件配对入口" align="top"></a>
+
+<a href="assets/desktop-backup-sources.png"><img src="assets/desktop-backup-sources.png" width="480" alt="桌面端的备份来源和插件配对入口" align="top"></a>
 
 **浏览器插件 · Browser extension**
 
-<a href="assets/deepseek-extension-capture.png"><img src="assets/deepseek-extension-capture.png" width="240" alt="DeepSeek 网页与插件侧栏中的公式和图片" align="top"></a>
+<a href="assets/deepseek-extension-capture.png"><img src="assets/deepseek-extension-capture.png" width="480" alt="DeepSeek 网页与插件侧栏中的公式和图片" align="top"></a>
 
 ## English
 
