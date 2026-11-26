@@ -1,6 +1,7 @@
 # Chat Memo
 
-把网页和电脑上的 AI 对话保存在自己的设备上。换一个 AI 聊天时，你可以授权它找回之前讨论过的内容。这个仓库提供 Chat Memo 产品介绍、下载入口和浏览器插件隐私政策。
+Chat Memo 是世界上最易用的跨 AI 上下文记忆中枢，也是保存格式最无损的对话备份、导出工具。<br>
+它能将你在 ChatGPT、Claude、DeepSeek 等平台的零散对话，实时存为私密、可随时检索的个人记忆资产，不再遗失。也能随时把网页或本地 Agent 聊到一半的话题，换个 AI 也能随时续聊。
 
 [官网](https://chatmemo.ai/zh-CN/) · [下载桌面端和浏览器插件](https://chatmemo.ai/zh-CN/downloads) · [更新日志](https://chatmemo.ai/zh-CN/updates) · [界面预览](#界面预览) · [English](#english)
 
